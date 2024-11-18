@@ -1,2 +1,2 @@
 # Snake-Xeniza
-Recreating the famous game Snake Xeniza on PC (Windows)
+Just a regular Snake- Xeniza y'all know
